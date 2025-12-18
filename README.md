@@ -23,3 +23,10 @@
   XSS vulnerabilities are dangerous because they can be used to steal sensitive information such as session cookies, perform unauthorized actions on behalf of users, or redirect users to malicious websites. This can lead to serious security and privacy issues.
 
   In conclusion, the tested web application is vulnerable to Cross-Site Scripting due to improper input validation. To prevent such vulnerabilities, the application should implement proper input sanitization, output encoding, and security controls to ensure that user-supplied data is handled safely.
+  
+XSS_Alert_Popup
+![Image](https://github.com/user-attachments/assets/b2ab7d5a-fe48-46ee-aa23-2a29b1389c28)
+
+
+XSS_Payload_Reflected
+![Image](https://github.com/user-attachments/assets/79bd9e58-c139-4ca5-baaf-d089fb33e978)
