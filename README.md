@@ -1,1 +1,15 @@
-# Security-Testing-for-Web-applications-
+**Security Testing for Web Applications**
+
+**COMPANY** : CODTECH IT SOLUTIONS 
+
+**NAME** :    SANDHIYA P
+
+**INTERN ID**:CT04DR2320
+
+**DOMAIN** :  SOFTWARE TESTING 
+
+**DURATION** : 4 WEEKS
+
+**MENTOR** : NEELA SANTHOSH
+
+**DESCRIPTION**: 
